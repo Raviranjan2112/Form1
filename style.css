@@ -1,0 +1,20 @@
+.a1{
+    background-color: rgb(43, 58, 226);
+
+}
+ul{
+    display: flex;
+    position:sticky;
+    margin-top: auto;
+}
+.d1{
+    margin-left: 1250px;
+    padding: 4px; 
+    text-align: left;
+    letter-spacing: 0px;
+}
+footer{
+    color: blueviolet;
+    background-color: rgb(42, 165, 97);
+    
+}
